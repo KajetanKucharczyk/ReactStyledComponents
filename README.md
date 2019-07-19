@@ -19,4 +19,4 @@ Project made for a recruitment process with the use of ReactJS, jQuery and Style
 -> Displaying action button on the right and animations\
 -> Opening image in article view with animation.
 
-I have done 'Displaying mobile button and animation' in  another project: [Home Page in React](http://kkucharczyk.pl/react/#/) in mobile view (displaying mobile manu).
+I have done 'Displaying mobile button and animation' in  another project: [Home Page in React](http://kkucharczyk.pl/react/#/) in mobile view (displaying mobile manu) and back button in opening article on 'Modele' page.
