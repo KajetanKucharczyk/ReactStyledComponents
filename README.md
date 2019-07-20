@@ -6,7 +6,7 @@ Project made for a recruitment process with the use of ReactJS, jQuery and Style
 
 ## What I have done?
 -> Divide project into Component, Data and Styles Folder\
--> Created data for displaying (from onet.pl) - in future this data shuld be taken from backend service.\
+-> Created data for displaying (from onet.pl) - in future this data should be taken from backend service.\
 -> Displaying home page with all elements\
 -> Two types of articles\
 -> Clicking into atricles (opening article)\
